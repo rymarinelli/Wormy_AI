@@ -1,2 +1,2 @@
 # Wormy_AI
-This is a repo to share analysis of self-reproducing prompts. 
+This is a repo for "Responsible Development of Offensive AI." It contains a Google Colab notebook that is used in the analysis.  
